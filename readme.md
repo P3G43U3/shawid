@@ -1,6 +1,6 @@
 # Simple HWID Auth
 
-This is a authentification for your [python](https://www.python.org/) projects. It uses my [shacrypt](https://github.com/64biit/sha256-encryption) library for encrypting the hardware-ids. The hwids are stored on (pastebin)[https://pastebin.com], where you can easily add and remove the hwids, giving you full control of your software.
+This is a authentification for your [Python](https://www.python.org/) projects. It uses my [Shacrypt](https://github.com/64biit/sha256-encryption) library for encrypting the hardware-ids. The hwids are stored on [Pastebin](https://pastebin.com), where you can easily add and remove the hwids, giving you full control of your software at any time.
 
 ## Installation
 
