@@ -20,5 +20,5 @@ pasteid.auth("your_pastebin_code", "your_contact")
 ```
 
 ## Get Pastebin Code
-![alt(]https://raw.githubusercontent.com/64biit/hwid-auth/main/pastebin.png)
+![alt(]https://raw.githubusercontent.com/64biit/hwid-auth/main/pastebin.png "Title")
 ---
